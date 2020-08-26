@@ -8,7 +8,7 @@ Please read the scripts before running the run-all script.
 **I am not responsible for broken systems.** You will likely want to modify the
 Debloat-Windows-10\utils\install-basic-software.ps1 script.
 
-[Download [zip] of this repo](https://github.com/Robin-Wils/Windows-Scripts/archive/main.zip)
+[Download [zip] of this repo](https://codeberg.org/RobinWils/Windows-10-Scripts/archive/main.zip)
 
 ## License
 
