@@ -1,0 +1,2 @@
+#NoTrayIcon
+Capslock::Control
